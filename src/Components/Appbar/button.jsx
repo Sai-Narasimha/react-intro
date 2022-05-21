@@ -5,5 +5,4 @@ export const Button = styled.button`
     background-color: #43a7cf;
     border-radius:20px;
     font-size:16px;
-    color:white;
-`
+    color:white`
